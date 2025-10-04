@@ -124,16 +124,6 @@ aiva-1.0-No-GUI-/
 
 ---
 
-## Screenshots
-
-### Project Directory
-![Project Files](image2.png)
-
-### Thematic Artwork
-![AIVA Snap](ironsnap2.gif)
-
----
-
 ## Contributing
 
 Feel free to submit issues or pull requests! Contributions to improve code, documentation, or features are welcome.
